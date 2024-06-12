@@ -1,0 +1,10 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmS23QmJ9UpdNmbiyySBHLp5tLxutSHRbcTZvBD79bCDQH/123.png",
+    "name": "The Square #123",
+    "attributes": [
+        {
+            "trait_type": "Color",
+            "value": "Image 123"
+        }
+    ]
+}
